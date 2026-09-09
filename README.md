@@ -8,3 +8,5 @@ TLCD-2 Smoke_2025-03-18 #comment GitHubAppCommMergedPR9
 
 TLCD-2 Smoke_2025-03-18 #comment GitHubAppCommMasterDirect
 
+STCD-157 test_gitcl5795_2026-09-09-plain-git-open-repo-commit
+
